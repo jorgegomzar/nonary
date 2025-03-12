@@ -1,6 +1,6 @@
 [project]
 name = "nonary"
-version = "0.1.0"
+version = "0.1.2"
 description = "CLI tool for The Nonary games"
 readme = "README.md"
 authors = [
@@ -10,7 +10,7 @@ requires-python = ">=3.9"
 dependencies = []
 
 [project.urls]
-Source = 'https://github.com/jorgegomez/nonary'
+Source = 'https://github.com/jorgegomzar/nonary'
 
 [project.scripts]
 nonary = "nonary:cli_entrypoint"
